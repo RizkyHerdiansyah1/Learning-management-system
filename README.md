@@ -127,12 +127,6 @@ journey-learn-lms/
 
 ---
 
-## 📝 Dokumentasi Tambahan
-
-- [Arsitektur & SDLC](docs/ARSITEKTUR_DAN_SDLC.md) - Diagram arsitektur dan proses pengembangan
-
----
-
 ## 🤝 Kontribusi
 
 Kontribusi sangat diterima! Silakan:
